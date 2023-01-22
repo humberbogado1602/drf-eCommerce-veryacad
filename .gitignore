@@ -60,6 +60,7 @@ Thumbs.db
 .pytest_cache/
 **__pycache__/
 .coverage
+htmlcov/
 
 # Extras
 logs/*
@@ -68,3 +69,4 @@ venv
 recreate_container.sh
 notes/
 .vscode
+schema.yml
